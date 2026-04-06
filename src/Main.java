@@ -8,7 +8,7 @@ class Main {
 
             System.out.println("\n=======================");
             System.out.println("-- CALCULE O SEU IMC --");
-            System.out.println("=======================");
+            System.out.println("=========================");
 
             System.out.println("Classificações: ");
             System.out.println("--------------------------------------------");
