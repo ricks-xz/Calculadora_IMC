@@ -12,12 +12,12 @@ class Main {
 
             System.out.println("Classificações: ");
             System.out.println("--------------------------------------------");
-            System.out.println("Menos que 18,5kg: Abaixo do peso/Magreza |");
-            System.out.println("18,5kg a 24,9kg: Peso normal/adequado |");
-            System.out.println("25,0kg a 29,9kg: Sobrepeso |");
-            System.out.println("30,0kg a 34,9kg: Obesidade grau I |");
-            System.out.println("35,0kg a 39,9kg: Obesidade grau II |");
-            System.out.println("Maior que 40kg: Obesidade grau III(mórbida) |");
+            System.out.println("Menos que 18,5kg: Abaixo do peso/Magreza   |");
+            System.out.println("18,5kg a 24,9kg: Peso normal/adequado      |");
+            System.out.println("25,0kg a 29,9kg: Sobrepeso                 |");
+            System.out.println("30,0kg a 34,9kg: Obesidade grau I          |");
+            System.out.println("35,0kg a 39,9kg: Obesidade grau II         |");
+            System.out.println("Maior que 40kg: Obesidade grau III(mórbida)|");
             System.out.println("--------------------------------------------");
 
             System.out.print("Por favor, digite o seu peso: ");
